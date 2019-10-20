@@ -1,2 +1,2 @@
 # angular-ui
-this repository contains angular and kendo UI code
+this repository contains angular7 and kendo UI code
